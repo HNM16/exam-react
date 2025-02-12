@@ -1481,6 +1481,10 @@ align-items: center;
         align-items: center;
         gap: 20px;
     }
+.partners{
+  display: none;
+}
+
     .p {
         text-align: center;
         gap: 10px;
@@ -1718,6 +1722,11 @@ align-items: center;
         margin-top: 10%;
         margin-bottom: 10%;
     }
+
+.partners{
+  display: none;
+}
+
     .box5 h1 {
         font-size: 40px;
     }
@@ -1938,6 +1947,10 @@ align-items: center;
         padding: 10px 15px;
         font-size: 10px;
     }
+
+.partners{
+  display: none;
+}
 
      .grid {
         grid-template-columns: 1fr;
