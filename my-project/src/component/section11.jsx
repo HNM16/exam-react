@@ -55,7 +55,9 @@ export default function Section11() {
           </p>
         </div>
       </div>
-      <h1 className="title-sf7">Наши партнеры</h1>
+          <h1 className="title-sf7">Наши партнеры</h1>
+          <div className="partners">
+              
       <div className="row-sf7">
         <img className="partner-sf7" src={img6} alt="" />
         <img className="partner-sf7" src={img7} alt="" />
@@ -67,7 +69,9 @@ export default function Section11() {
         <img className="partner-sf7" src={img11} alt="" />
         <img className="partner-sf7" src={img12} alt="" />
         <img className="partner-sf7" src={img13} alt="" />
-      </div>
+              </div>
+          </div>
+              
     </>
   );
 }
